@@ -18,6 +18,8 @@ features that make it literally the best terminal emulator ever:
 + **zoom/change font size**: same bindings as above, but holding down shift as
   well. `alt-home` returns to default
 + **copy text** with `alt-c`, **paste** is `alt-v` or `shift-insert`
++ **newline without sending** with `shift-enter`, so multi-line prompts work in
+  programs like Claude Code. It sends the same code as `alt-enter`.
 
 ## Pretty stuff
 
